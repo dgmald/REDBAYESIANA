@@ -32,3 +32,6 @@ D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form1.reso
 D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form2.resources
 D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RunnerRedBayesiana.Properties.Resources.resources
 D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RedBayesiana.csproj.GenerateResource.Cache
+C:\Users\dgm\Desktop\Support\REDBAYESIANA\FiguraChafa\bin\Debug\Grafos.exe.config
+C:\Users\dgm\Desktop\Support\REDBAYESIANA\FiguraChafa\obj\Debug\Grafos.exe
+C:\Users\dgm\Desktop\Support\REDBAYESIANA\FiguraChafa\obj\Debug\Grafos.pdb
