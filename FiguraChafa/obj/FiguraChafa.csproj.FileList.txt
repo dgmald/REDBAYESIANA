@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FiguraChafa.Form1.resources
+obj\Debug\FiguraChafa.Properties.Resources.resources
+obj\Debug\FiguraChafa.csproj.GenerateResource.Cache
+bin\Debug\FiguraChafa.exe
+bin\Debug\FiguraChafa.pdb
+obj\Debug\FiguraChafa.exe
+obj\Debug\FiguraChafa.pdb

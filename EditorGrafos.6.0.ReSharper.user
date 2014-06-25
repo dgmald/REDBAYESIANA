@@ -1,0 +1,94 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoDirigido.cs" caret="7781" fromTop="13" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoNoDirigido.cs" caret="919" fromTop="0" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="4442" fromTop="7" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Form1.cs" caret="42984" fromTop="16" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:MatrizAdyacencia.Designer.cs" caret="0" fromTop="0" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:MatrizAdyacencia.cs" caret="530" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoNoDirigido.cs" caret="30514" fromTop="11" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoNoDirigido.cs" caret="27083" fromTop="10" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoNoDirigido.cs" caret="34115" fromTop="12" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoNoDirigido.cs" caret="37006" fromTop="15" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoNoDirigido.cs" caret="34270" fromTop="20" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoDirigido.cs" caret="2404" fromTop="9" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:GrafoNoDirigido.cs" caret="40927" fromTop="22" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="47706" fromTop="25" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Form1.cs" caret="46244" fromTop="16" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="1895" fromTop="0" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="1896" fromTop="0" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="2340" fromTop="16" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="4890" fromTop="17" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="4501" fromTop="9" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="4970" fromTop="20" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Grafo.cs" caret="6803" fromTop="16" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Form1.cs" caret="45547" fromTop="18" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Form1.cs" caret="34646" fromTop="12" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:Form1.cs" caret="42948" fromTop="16" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:MatrizAdyacencia.cs" caret="250" fromTop="11" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:MatrizAdyacencia.cs" caret="571" fromTop="15" />
+      <File id="AF53522F-C9AF-47A6-96E4-9F12FED0719B/f:MatrizAdyacencia.cs" caret="531" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="63" />
+      <Item value="void" priority="63" />
+      <Item value="int" priority="95" />
+      <Item value="bool" priority="156" />
+      <Item value="return" priority="31" />
+      <Item value="numeroAristas`0" priority="31" />
+      <Item value="null" priority="31" />
+      <Item value="foreach" priority="127" />
+      <Item value="if" priority="95" />
+      <Item value="vertice1" priority="31" />
+      <Item value="vertice2" priority="31" />
+      <Item value="new" priority="31" />
+      <Item value="listV" priority="63" />
+      <Item value="matrizAdyacencia" priority="95" />
+      <Item value="i" priority="95" />
+      <Item value="true" priority="31" />
+      <Item value="private" priority="31" />
+      <Item value="grafoActivo" priority="63" />
+      <Item value="Length" priority="26" />
+      <Item value="dataGridViewMatrizAdyacencia" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FiguraChafa.Vertice">
+      <Item value="tieneAristaCon`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FiguraChafa.Grafo">
+      <Item value="obtenMatrizAdyacencia`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="Columns" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumnCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

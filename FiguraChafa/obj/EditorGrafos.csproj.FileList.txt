@@ -1,0 +1,12 @@
+bin\Debug\Grafos.exe
+bin\Debug\Grafos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FiguraChafa.Form1.resources
+obj\Debug\FiguraChafa.Form2.resources
+obj\Debug\FiguraChafa.Form3.resources
+obj\Debug\FiguraChafa.Form4.resources
+obj\Debug\FiguraChafa.Form5.resources
+obj\Debug\Grafos.Properties.Resources.resources
+obj\Debug\EditorGrafos.csproj.GenerateResource.Cache
+obj\Debug\Grafos.exe
+obj\Debug\Grafos.pdb

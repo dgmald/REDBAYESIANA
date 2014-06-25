@@ -1,0 +1,34 @@
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\Grafos.exe
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\Grafos.pdb
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\RedBayesiana.csprojResolveAssemblyReference.cache
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\Grafos.MatrizAdyacencia.resources
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\Grafos.Properties.Resources.resources
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\RedBayesiana.csproj.GenerateResource.Cache
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\bin\Debug\Grafos.exe
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\bin\Debug\Grafos.pdb
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form1.resources
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form2.resources
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form3.resources
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form4.resources
+D:\DGM\Projects\RED BAYESIANA\EditorGrafos_Final\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form5.resources
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\obj\Debug\Grafos.exe
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\obj\Debug\Grafos.pdb
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\bin\Debug\Grafos.exe
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\bin\Debug\Grafos.pdb
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\obj\Debug\RedBayesiana.csprojResolveAssemblyReference.cache
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form1.resources
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form2.resources
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\obj\Debug\RedBayesiana.csproj.GenerateResource.Cache
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\obj\Debug\RunnerRedBayesiana.MatrizAdyacencia.resources
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\obj\Debug\RunnerRedBayesiana.Properties.Resources.resources
+D:\DGM\Projects\RED BAYESIANA\RedBayesiana\FiguraChafa\bin\Debug\Grafos.exe.config
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\bin\Debug\Grafos.exe.config
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\Grafos.exe
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\Grafos.pdb
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\bin\Debug\Grafos.exe
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\bin\Debug\Grafos.pdb
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RedBayesiana.csprojResolveAssemblyReference.cache
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form1.resources
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RunnerRedBayesiana.Form2.resources
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RunnerRedBayesiana.Properties.Resources.resources
+D:\DGM\Projects\REDBAYESIANA\FiguraChafa\obj\Debug\RedBayesiana.csproj.GenerateResource.Cache
